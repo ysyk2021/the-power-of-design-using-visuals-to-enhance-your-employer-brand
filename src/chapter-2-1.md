@@ -1,5 +1,4 @@
-Chapter 2: Understanding Employer Branding: Definition of Employer Branding
-===========================================================================
+# Definition of Employer Branding
 
 In this chapter, we will explore the concept of employer branding and define what it means.
 

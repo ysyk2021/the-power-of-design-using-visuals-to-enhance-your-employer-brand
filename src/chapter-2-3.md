@@ -1,5 +1,4 @@
-Chapter 2: Understanding Employer Branding: Common Myths about Employer Branding
-================================================================================
+# Common Myths about Employer Branding
 
 In this chapter, we will dispel some common myths surrounding employer branding.
 

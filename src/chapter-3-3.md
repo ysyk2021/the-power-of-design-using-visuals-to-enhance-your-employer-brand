@@ -1,5 +1,4 @@
-Chapter 3: The Role of Design in Employer Branding: Ensuring Consistency and Coherence in Design
-================================================================================================
+# Ensuring Consistency and Coherence in Design
 
 In this chapter, we will explore the role of design in employer branding by discussing the importance of ensuring consistency and coherence in design.
 

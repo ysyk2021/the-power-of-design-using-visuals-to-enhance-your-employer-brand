@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Recap of Key Points
-===========================================
+# Recap of Key Points
 
 In this book, we have explored the power of design in enhancing your employer brand. Here's a recap of some key points that we have covered:
 

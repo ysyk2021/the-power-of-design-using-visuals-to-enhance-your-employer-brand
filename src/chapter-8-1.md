@@ -1,5 +1,4 @@
-Chapter 8: Case Studies of Successful Employer Branding Design: Real-life Examples of Companies who have Successfully Enhanced their Employer Brand through Design
-==================================================================================================================================================================
+# Real-life Examples of Companies who have Successfully Enhanced their Employer Brand through Design
 
 In this chapter, we will explore real-life examples of companies who have successfully enhanced their employer brand through effective design.
 

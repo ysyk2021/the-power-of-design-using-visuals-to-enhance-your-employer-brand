@@ -1,5 +1,4 @@
-Chapter 5: Maximizing Your Employer Brand through Design: Building a Positive Reputation and Culture
-====================================================================================================
+# Building a Positive Reputation and Culture
 
 In this chapter, we will discuss how effective design can help maximize your employer brand by building a positive reputation and culture.
 

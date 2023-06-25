@@ -1,5 +1,4 @@
-Chapter 3: The Role of Design in Employer Branding: Developing Brand Guidelines and Assets
-==========================================================================================
+# Developing Brand Guidelines and Assets
 
 In this chapter, we will explore the role of design in employer branding, including developing brand guidelines and assets.
 

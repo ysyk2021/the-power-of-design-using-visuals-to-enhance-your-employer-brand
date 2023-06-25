@@ -1,5 +1,4 @@
-Chapter 5: Maximizing Your Employer Brand through Design: Increasing Engagement and Loyalty
-===========================================================================================
+# Increasing Engagement and Loyalty
 
 In this chapter, we will discuss how effective design can help maximize your employer brand by increasing employee engagement and loyalty.
 

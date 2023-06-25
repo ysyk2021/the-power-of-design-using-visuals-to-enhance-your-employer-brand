@@ -1,5 +1,4 @@
-Chapter 4: Techniques for Designing Your Employer Brand: Choosing the Right Channels and Platforms
-==================================================================================================
+# Choosing the Right Channels and Platforms
 
 In this chapter, we will explore techniques for designing your employer brand by choosing the right channels and platforms to reach your target audience.
 

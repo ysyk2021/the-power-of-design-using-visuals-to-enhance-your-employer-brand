@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Employer Branding Design: Addressing Potential Risks and Consequences of Employer Branding Design
-======================================================================================================================================
+# Addressing Potential Risks and Consequences of Employer Branding Design
 
 In this chapter, we will explore ethical considerations in employer branding design. While effective design can enhance your employer brand and attract top talent, it's important to consider potential risks and consequences.
 

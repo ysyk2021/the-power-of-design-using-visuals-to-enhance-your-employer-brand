@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Overview of the Book
-=============================================
+# Overview of the Book
 
 This book is a guide for companies looking to enhance their employer brand through effective design. In today's competitive job market, it's more important than ever for companies to differentiate themselves and attract top talent.
 

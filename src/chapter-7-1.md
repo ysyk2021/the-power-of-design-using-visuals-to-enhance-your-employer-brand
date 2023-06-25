@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Obstacles to Employer Branding Design: Common Obstacles to Employer Branding Design
-=========================================================================================================
+# Common Obstacles to Employer Branding Design
 
 In this chapter, we will discuss common obstacles to effective employer branding design.
 

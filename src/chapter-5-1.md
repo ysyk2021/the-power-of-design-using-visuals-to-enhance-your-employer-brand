@@ -1,5 +1,4 @@
-Chapter 5: Maximizing Your Employer Brand through Design: Attracting and Retaining Top Talent
-=============================================================================================
+# Attracting and Retaining Top Talent
 
 In this chapter, we will explore how to maximize your employer brand through design by attracting and retaining top talent.
 

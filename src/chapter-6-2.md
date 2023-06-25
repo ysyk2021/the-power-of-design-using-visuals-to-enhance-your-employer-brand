@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Employer Branding Design: Qualitative and Quantitative Methods for Evaluation
-=============================================================================================================
+# Qualitative and Quantitative Methods for Evaluation
 
 In this chapter, we will explore both qualitative and quantitative methods for evaluating the effectiveness of your employer branding design efforts.
 

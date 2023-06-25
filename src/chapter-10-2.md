@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Final Thoughts on the Power of Design for Enhancing Your Employer Brand
-===============================================================================================
+# Final Thoughts on the Power of Design for Enhancing Your Employer Brand
 
 In this book, we've explored how effective design can enhance your employer brand and help attract and retain top talent. We discussed the key elements of effective employer branding design, including creating a visual identity and story, developing brand guidelines and assets, and ensuring consistency and coherence in design.
 

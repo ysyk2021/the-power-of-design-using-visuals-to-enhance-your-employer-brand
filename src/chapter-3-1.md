@@ -1,5 +1,4 @@
-Chapter 3: The Role of Design in Employer Branding: Creating a Visual Identity and Story
-========================================================================================
+# Creating a Visual Identity and Story
 
 In this chapter, we will explore the role of design in employer branding by discussing the importance of creating a visual identity and story.
 

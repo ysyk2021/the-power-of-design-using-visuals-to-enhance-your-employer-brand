@@ -1,5 +1,4 @@
-Chapter 2: Understanding Employer Branding: Benefits of a Strong Employer Brand
-===============================================================================
+# Benefits of a Strong Employer Brand
 
 In this chapter, we will explore the benefits of having a strong employer brand.
 

@@ -1,5 +1,4 @@
-Chapter 4: Techniques for Designing Your Employer Brand: Defining Your Target Audience and Message
-==================================================================================================
+# Defining Your Target Audience and Message
 
 In this chapter, we will explore techniques for designing your employer brand by defining your target audience and message.
 

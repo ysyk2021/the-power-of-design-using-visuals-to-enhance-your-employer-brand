@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Employer Branding Design: Key Performance Indicators (KPIs) for Measuring Success
-=================================================================================================================
+# Key Performance Indicators (KPIs) for Measuring Success
 
 In this chapter, we will explore some key performance indicators (KPIs) that can be used to measure the success of your employer branding design efforts.
 

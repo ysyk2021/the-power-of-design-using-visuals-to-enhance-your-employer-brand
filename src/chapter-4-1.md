@@ -1,5 +1,4 @@
-Chapter 4: Techniques for Designing Your Employer Brand: Conducting Research and Analysis
-=========================================================================================
+# Conducting Research and Analysis
 
 In this chapter, we will explore techniques for designing your employer brand by conducting research and analysis.
 
