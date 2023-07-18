@@ -10,5 +10,4 @@ Through a combination of case studies, expert insights, and practical advice, th
 
 Whether you're a seasoned HR professional or just starting out in your career, "The Power of Design" is an invaluable resource for anyone looking to elevate their employer branding efforts. By learning how to effectively leverage the power of visual design, you'll be able to attract top talent, build a strong company culture, and achieve long-term success in today's competitive job market.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
