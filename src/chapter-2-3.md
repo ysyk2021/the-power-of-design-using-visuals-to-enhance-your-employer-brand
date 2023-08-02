@@ -1,4 +1,4 @@
-Chapter: Common Myths About Employer Branding
+Common Myths About Employer Branding
 =============================================
 
 In this chapter, we debunk common myths surrounding employer branding and shed light on the realities of leveraging visuals to enhance your organization's reputation as an employer. By dispelling these misconceptions, you can better understand the true potential and impact of employer branding through visual design.

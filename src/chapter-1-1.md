@@ -1,4 +1,4 @@
-Chapter: Importance of Design in Employer Branding
+Importance of Design in Employer Branding
 ==================================================
 
 Design plays a pivotal role in shaping and enhancing an organization's employer brand. In this chapter, we will explore the significance of design in employer branding and how it can effectively communicate the organization's values, culture, and appeal to top talent.

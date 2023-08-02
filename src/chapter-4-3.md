@@ -1,4 +1,4 @@
-Chapter: Choosing the Right Channels and Platforms
+Choosing the Right Channels and Platforms
 ==================================================
 
 In this chapter, we explore the process of choosing the right channels and platforms to effectively communicate your visual design and enhance your employer brand. By understanding your target audience, evaluating various channels and platforms, and strategically selecting the most suitable ones, you can amplify the impact of your visual design efforts and reach the right audience.

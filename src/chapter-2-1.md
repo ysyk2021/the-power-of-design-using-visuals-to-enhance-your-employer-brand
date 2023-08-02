@@ -1,4 +1,4 @@
-Chapter: Definition of Employer Branding
+Definition of Employer Branding
 ========================================
 
 In this chapter, we explore the concept of employer branding and its significance in leveraging visuals to enhance your organization's reputation as an employer. By understanding the definition and essence of employer branding, you can lay a strong foundation for effectively utilizing visual design to attract and retain top talent.

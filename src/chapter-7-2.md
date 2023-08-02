@@ -1,4 +1,4 @@
-Chapter: Strategies for Overcoming Challenges
+Strategies for Overcoming Challenges
 =============================================
 
 In the realm of employer branding, organizations often face various challenges when leveraging visuals to enhance their employer brand. This chapter explores some common challenges and provides strategies to overcome them effectively.

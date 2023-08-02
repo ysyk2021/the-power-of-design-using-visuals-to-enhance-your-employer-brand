@@ -1,4 +1,4 @@
-Chapter: Understanding Ethical Guidelines and Standards
+Understanding Ethical Guidelines and Standards
 =======================================================
 
 In this chapter, we will discuss the importance of ethical guidelines and standards when using visuals to enhance your employer brand. It is crucial to maintain integrity and ensure that your visual content aligns with ethical practices and legal regulations. Adhering to these guidelines not only protects your brand's reputation but also builds trust with your target audience.
