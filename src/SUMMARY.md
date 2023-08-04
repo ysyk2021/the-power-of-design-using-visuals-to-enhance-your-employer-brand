@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of Design in Employer Branding](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Employer Branding](chapter-2.md)
   - [Definition of Employer Branding](chapter-2-1.md)
   - [Benefits of a Strong Employer Brand](chapter-2-2.md)
