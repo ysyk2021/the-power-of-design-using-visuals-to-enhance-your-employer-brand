@@ -44,7 +44,3 @@ Use the insights gained from analyzing your KPIs to make data-driven decisions. 
 Measurement of KPIs should be an ongoing process that informs continuous improvement and adaptation. Regularly review and reassess your KPI selection to ensure they remain relevant and aligned with your evolving goals. As your employer brand landscape shifts, update your benchmarks and adjust your visual design strategy accordingly to maintain a competitive edge.
 
 By defining and tracking key performance indicators, you can objectively measure the success of your visual design in enhancing your employer brand. Through continuous monitoring, analysis, and data-driven decision-making, you can optimize your design strategy, improve brand metrics, and strengthen your employer brand's overall impact.
-
-Next chapter:
-
-* Chapter: Implementing an Effective Design Feedback Loop

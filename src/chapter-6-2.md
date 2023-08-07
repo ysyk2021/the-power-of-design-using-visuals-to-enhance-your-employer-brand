@@ -44,7 +44,3 @@ By integrating qualitative and quantitative insights, you gain a holistic unders
 Qualitative and quantitative evaluation methods should be seen as part of an ongoing iterative process for continuous improvement. Incorporating feedback, measuring outcomes, and implementing changes based on evaluations contribute to optimizing your visual design and its impact on your employer brand over time.
 
 By embracing a combination of qualitative and quantitative methods for evaluation, you can gain comprehensive insights into the effectiveness of your visual design in enhancing your employer brand. Through an iterative approach to evaluation and improvement, you can refine your design strategy, strengthen your employer brand's visual identity, and attract and retain top talent.
-
-Next chapter:
-
-* Chapter: Creating a Cohesive Visual Identity for Your Employer Brand

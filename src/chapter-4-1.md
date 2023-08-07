@@ -44,7 +44,3 @@ Translate your research findings into actionable insights for your design strate
 Remember that research and analysis should be an ongoing process. Continuously monitor and evaluate the impact of design changes, reassess research objectives, and gather feedback from stakeholders. Apply iterative improvements to your design strategy based on new insights, evolving trends, and changing audience preferences.
 
 By conducting thorough research and analysis, you can gather valuable insights that inform your design decisions and enhance your employer brand. Through a systematic approach to research, data collection, analysis, and application, you can ensure that your visual design aligns with your brand's strategic objectives and resonates with your target audience.
-
-Next chapter:
-
-* Chapter: Creating Engaging Visual Content for Your Employer Brand

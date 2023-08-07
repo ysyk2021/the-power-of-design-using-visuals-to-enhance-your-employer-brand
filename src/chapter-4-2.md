@@ -44,7 +44,3 @@ Conduct user testing and collect feedback throughout the design process. Share v
 Effectively defining your target audience and message is an ongoing process. Continuously evaluate the effectiveness of your visual designs in reaching and engaging your target audience. Monitor performance metrics, gather feedback, and make data-driven decisions to refine and optimize your visual designs. Keeping a pulse on your target audience's evolving preferences and industry trends allows you to adapt and improve your visuals over time.
 
 By defining your target audience and crafting a clear and compelling message, you can create visual designs that effectively enhance your employer brand. Through market research, development of buyer personas, and alignment of visuals with your message, you can ensure your visuals resonate with your target audience and attract top talent to your organization.
-
-Next chapter:
-
-* Chapter: Choosing the Right Channels and Platforms

@@ -89,4 +89,4 @@ To maintain consistency and coherence, develop guidelines for your visual identi
 Conclusion
 ----------
 
-Creating a compelling visual identity and story for your employer brand is a powerful way to differentiate yourself in the talent market. By translating your brand's personality and values into visuals and crafting an authentic narrative, you can attract, engage, and inspire top talent. Remember to maintain consistency and coherence through guidelines that uphold your employer brand's visual identity and storytelling principles. In the next chapter, we will explore the process of developing comprehensive brand guidelines and essential design assets that align with your newly created visual identity and story.
+Creating a compelling visual identity and story for your employer brand is a powerful way to differentiate yourself in the talent market. By translating your brand's personality and values into visuals and crafting an authentic narrative, you can attract, engage, and inspire top talent. Remember to maintain consistency and coherence through guidelines that uphold your employer brand's visual identity and storytelling principles.
