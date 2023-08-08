@@ -25,7 +25,6 @@
   - [Common Obstacles to Employer Branding Design](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Employer Branding Design](chapter-8.md)
-  - [Real-life Examples of Companies who have Successfully Enhanced their Employer Brand through Design](chapter-8-1.md)
 - [Chapter 9: Ethical Considerations in Employer Branding Design](chapter-9.md)
   - [Understanding Ethical Guidelines and Standards](chapter-9-1.md)
   - [Balancing Aesthetics with Authenticity](chapter-9-2.md)
