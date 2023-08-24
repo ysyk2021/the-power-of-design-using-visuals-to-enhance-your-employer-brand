@@ -1,5 +1,3 @@
-Chapter 2: Understanding Employer Branding
-==========================================
 
 In this chapter, we will explore the concept of employer branding, including its definition, benefits, and common myths.
 

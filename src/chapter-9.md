@@ -1,5 +1,3 @@
-Chapter 9: Ethical Considerations in Employer Branding Design
-=============================================================
 
 In this chapter, we will explore ethical considerations in employer branding design, including understanding ethical guidelines and standards, balancing aesthetics with authenticity, and addressing potential risks and consequences of employer branding design.
 

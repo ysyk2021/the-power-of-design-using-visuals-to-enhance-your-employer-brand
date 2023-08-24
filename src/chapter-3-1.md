@@ -1,5 +1,3 @@
-Creating a Visual Identity and Story
-=============================================
 
 In this chapter, we will explore the process of creating a compelling visual identity and story for your employer brand. A strong visual identity and story are crucial in attracting and engaging potential candidates and establishing a memorable and distinctive presence in the talent market.
 

@@ -1,5 +1,3 @@
-Conducting Research and Analysis
-=========================================
 
 In this chapter, we explore the process of conducting research and analysis to inform your design decisions and enhance your employer brand. By employing effective research methods and thorough analysis techniques, you can gather valuable insights, identify trends, and make data-driven decisions that maximize the impact of visuals on your employer brand strategy.
 

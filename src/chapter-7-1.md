@@ -1,5 +1,3 @@
-Common Obstacles to Employer Branding Design
-=====================================================
 
 Designing a compelling and effective employer brand requires overcoming various obstacles and challenges. In this chapter, we explore some common hurdles faced in employer branding design and provide insights on how to address them.
 

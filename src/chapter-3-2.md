@@ -1,5 +1,3 @@
-Developing Brand Guidelines and Assets
-===============================================
 
 Developing comprehensive brand guidelines and assets is a crucial step in leveraging the power of design to enhance your employer brand. In this chapter, we will explore the process of creating brand guidelines and developing essential design assets that align with your organization's values and goals.
 

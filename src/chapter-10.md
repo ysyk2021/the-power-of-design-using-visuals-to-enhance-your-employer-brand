@@ -1,5 +1,3 @@
-Chapter 10: Conclusion
-======================
 
 In this book, we have explored the power of design in enhancing your employer brand. We have discussed how effective design can help you attract and retain top talent, differentiate yourself from competitors, and communicate your values and culture to potential employees.
 

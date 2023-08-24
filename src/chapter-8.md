@@ -1,5 +1,3 @@
-Chapter 8: Case Studies of Successful Employer Branding Design
-==============================================================
 
 In this chapter, we will explore real-life examples of companies that have successfully enhanced their employer brand through effective design strategies. By examining these examples, we can gain valuable insights into the power of visual design in strengthening an organization's employer brand and attracting top talent. Let's dive into some inspiring stories that demonstrate the impact of design on employer branding.
 

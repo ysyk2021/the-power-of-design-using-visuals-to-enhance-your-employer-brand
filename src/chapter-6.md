@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Employer Branding Design
-========================================================
 
 In this chapter, we will explore how to measure success in employer branding design. Effective measurement of your employer branding efforts can help you understand what's working and what's not, and make adjustments where necessary.
 
@@ -31,5 +29,4 @@ Conclusion
 In conclusion, measuring success in employer branding design is an important step in creating an effective and authentic employer brand. By tracking KPIs such as application rates, employee retention rates, and social media engagement, you can gain insights into the effectiveness of your employer branding efforts.
 
 Using both qualitative and quantitative methods for evaluation can provide a more comprehensive understanding of the impact of your employer brand on your target audience. By using these techniques to measure success and make adjustments where necessary, you can create a compelling and authentic employer brand that attracts and retains top talent.
-
 

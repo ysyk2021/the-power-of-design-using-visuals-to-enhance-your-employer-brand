@@ -1,5 +1,3 @@
-Key Performance Indicators (KPIs) for Measuring Success
-================================================================
 
 In this chapter, we explore the importance of defining key performance indicators (KPIs) to measure the success of your visual design efforts in enhancing your employer brand. By establishing clear metrics and benchmarks, you can objectively evaluate the effectiveness of your design strategy and make data-driven decisions to continuously improve your employer brand visuals.
 

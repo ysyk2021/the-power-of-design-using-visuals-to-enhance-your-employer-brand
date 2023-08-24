@@ -1,5 +1,3 @@
-Defining Your Target Audience and Message
-==================================================
 
 In this chapter, we dive into the importance of defining your target audience and message when using visuals to enhance your employer brand. By understanding who you are trying to reach and crafting a clear and compelling message, you can create visual designs that resonate with your intended audience, effectively communicate your employer brand, and attract top talent.
 

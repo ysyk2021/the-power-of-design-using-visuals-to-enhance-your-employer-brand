@@ -1,5 +1,3 @@
-Chapter 4: Techniques for Designing Your Employer Brand
-=======================================================
 
 In this chapter, we will explore techniques for designing your employer brand, including conducting research and analysis, defining your target audience and message, and choosing the right channels and platforms.
 

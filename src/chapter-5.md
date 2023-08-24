@@ -1,5 +1,3 @@
-Chapter 5: Maximizing Your Employer Brand through Design
-========================================================
 
 In this chapter, we will explore how to maximize your employer brand through design by attracting and retaining top talent, building a positive reputation and culture, and increasing engagement and loyalty.
 

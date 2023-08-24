@@ -1,5 +1,3 @@
-Qualitative and Quantitative Methods for Evaluation
-============================================================
 
 In this chapter, we explore the importance of using both qualitative and quantitative methods for evaluating the effectiveness of visual design in enhancing your employer brand. By incorporating a combination of these evaluation approaches, you can gain comprehensive insights into the impact of your design efforts, make informed decisions, and continuously improve your employer brand strategy.
 

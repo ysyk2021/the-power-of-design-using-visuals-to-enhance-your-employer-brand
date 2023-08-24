@@ -1,5 +1,3 @@
-Increasing Engagement and Loyalty
-==========================================
 
 Engaging employees and fostering loyalty are crucial aspects of building a strong employer brand. In this chapter, we explore how visual design can play a pivotal role in increasing employee engagement and loyalty within an organization.
 

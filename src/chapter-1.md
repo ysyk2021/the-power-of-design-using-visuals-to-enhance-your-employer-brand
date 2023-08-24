@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will provide an introduction to the book and discuss the importance of design in employer branding.
 

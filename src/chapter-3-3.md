@@ -1,5 +1,3 @@
-Ensuring Consistency and Coherence in Design
-=====================================================
 
 Consistency and coherence in design are crucial elements when it comes to enhancing your employer brand. In this chapter, we will delve into the importance of maintaining a consistent visual identity and ensuring coherence across various design elements, platforms, and touchpoints.
 

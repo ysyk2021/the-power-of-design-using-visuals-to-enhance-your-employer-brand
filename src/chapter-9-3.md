@@ -1,5 +1,3 @@
-Addressing Potential Risks and Consequences of Employer Branding Design
-================================================================================
 
 In this chapter, we will explore the potential risks and consequences associated with employer branding design and discuss strategies for addressing them effectively. While visual design can enhance your employer brand, it is crucial to be aware of the risks involved and take proactive measures to mitigate any negative impacts. By understanding these risks and implementing appropriate safeguards, you can ensure that your employer branding design efforts yield positive outcomes.
 
