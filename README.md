@@ -1,3 +1,6 @@
+# The Power of Design: Using Visuals to Enhance Your Employer Brand
+
+Book Link: [https://zhengpublishing.com/the-power-of-design-using-visuals-to-enhance-your-employer-brand/](https://zhengpublishing.com/the-power-of-design-using-visuals-to-enhance-your-employer-brand/)
 
 In today's competitive job market, employer branding has become a critical component of any successful recruitment strategy. Companies that are able to effectively communicate their brand and values to potential employees have a distinct advantage in attracting top talent.
 
